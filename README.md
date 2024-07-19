@@ -1,4 +1,4 @@
-# CS422PP-mapreduce
+# Introduction
 
 This repository contains a simple MapReduce distributed computing platform implemented in C++.
 
