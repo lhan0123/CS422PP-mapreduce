@@ -1,6 +1,5 @@
 # Introduction
-
-This repository contains a simple MapReduce distributed computing platform implemented in C++.
+This project is the homework assignment for the Parallel Programming (PL) course (Fall 2021) at National Tsing Hua University (NTHU). This repository contains a simple MapReduce distributed computing platform implemented in C++.
 
 # Implementation
 **Jobtracker**  
